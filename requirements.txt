@@ -1,0 +1,6 @@
+pytorch
+diffusers
+accelerate
+huggingface_hub
+pathlib
+numpy
